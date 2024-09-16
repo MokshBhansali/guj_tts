@@ -1,0 +1,21 @@
+name: guj_tts
+description: "Flutter package to generate speech from text using the Meta's mms-tts-guj model on HuggingFace API"
+version: 0.0.1
+homepage: null
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  dio: ^5.7.0
+  dio_cache_interceptor: ^3.5.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter: null
