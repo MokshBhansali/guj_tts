@@ -1,7 +1,7 @@
 name: guj_tts
 description: "Flutter package to generate speech from text using the Meta's mms-tts-guj model on HuggingFace API"
 version: 0.0.1
-homepage: null
+homepage: https://github.com/MokshBhansali/guj_tts
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

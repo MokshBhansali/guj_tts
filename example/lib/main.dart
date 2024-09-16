@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:guj_hug_tts/guj_tts.dart';
+import 'package:guj_tts/guj_tts_base.dart';
 import 'package:just_audio/just_audio.dart';
 
 void main() {

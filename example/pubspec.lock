@@ -136,7 +136,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  guj_hug_tts:
+  guj_tts:
     dependency: "direct main"
     description:
       path: ".."
